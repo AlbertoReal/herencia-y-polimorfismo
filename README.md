@@ -1,4 +1,4 @@
 # herencia-y-polimorfismo
 
-herencia y polimorfismo primer ejercicio
-herencia y plimorfismo 2 segundo ejercicio
+# herencia y polimorfismo primer ejercicio
+# herencia y plimorfismo 2 segundo ejercicio
